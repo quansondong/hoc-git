@@ -1,0 +1,7 @@
+total 132
+-rw-r--r-- 1 root root    294 Jun  3 07:11 file_branch.txt
+-rw-r--r-- 1 root root      0 Jun  3 07:20 fix_ui.txt
+-rw-r--r-- 1 root root 117220 Jun  3 06:50 MS_SQL_o7planning.docx
+-rw-r--r-- 1 root root    109 Jun  3 05:07 new_file.txt
+drwxr-xr-x 2 root root   4096 Jun  3 06:48 new_rm
+-rw-r--r-- 1 root root     23 Jun  3 05:02 README.md
